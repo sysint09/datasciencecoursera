@@ -11,11 +11,7 @@ activityrecognition@smartlab.ws
 www.smartlab.ws
 ==================================================================
 
-For each record it is provided the mean and standard deviation AVERAGE for each activity and each subject of these variable:
-
-- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
-- Triaxial Angular velocity from the gyroscope. 
-- A 561-feature vector with time and frequency domain variables. 
+For each record it is provided the mean and standard deviation AVERAGE for each activity and each subject of a 79-feature vector. 
 
 Therefor the data set has got:
 - activity: label of activity
