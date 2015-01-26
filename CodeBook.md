@@ -18,9 +18,9 @@ For each record it is provided the mean and standard deviation AVERAGE for each 
 - A 561-feature vector with time and frequency domain variables. 
 
 Therefor the data set has got:
-activity: label of activity
-subject: identifier of the subject who carried out the experiment
-
+- activity: label of activity
+- subject: identifier of the subject who carried out the experiment
+- columns-variables: as specified in the variables.txt file
 
 License:
 ========
